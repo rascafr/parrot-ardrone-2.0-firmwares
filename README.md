@@ -2,14 +2,16 @@
 
 Since I couldn't find them easily (neither on the Parrot support page or other repositories), here are the official Parrot firmwares for the ArDrone 2.0.
 
-I used this tool to got those files: [ardrone-batch-firmware-downloader](https://github.com/rascafr/ardrone-batch-firmware-downloader)
+I used this tool to get those files: [ardrone-batch-firmware-downloader](https://github.com/rascafr/ardrone-batch-firmware-downloader)
 
 ## ⚖️ Mandatory legal disclamer ⚖️
 
 ```
 I am not related to Parrot S.A., and this repository is not supported nor endorsed by Parrot S.A.
 
-This will likely void your warranty (...but who cares if your drone has been bought in 2012). 
+This repository purpose is just to help people like me willing to upgrade / downgrade their drone's firmware since the Parrot support page and the download url are both nonexistent now.
+
+Please be aware taht this may void your warranty (...but who cares if your drone has been bought in 2012). 
 
 Use it at your own risks.
 
