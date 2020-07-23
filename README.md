@@ -42,6 +42,7 @@ echo "2.1.16" > /update/version.txt
 
 ```bash
 echo "2.1.10" > /firmware/version.txt
+```
 
 - Exit the telnet session
 
